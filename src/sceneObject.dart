@@ -3,4 +3,5 @@ abstract class SceneObject {
   double get transperency;
   Vec3 get surfaceColor;
   Vec3 get emissionColor;
+  Vec3 get position;
 }
